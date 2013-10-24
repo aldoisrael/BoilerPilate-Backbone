@@ -7,7 +7,7 @@
   	//it will not be needed.
     stubModules: ['cs'],
     //"optimize": "uglify",
-	   "optimize": "none",
+    "optimize": "none",
 	modules: [
 		{
 			"name": "app",
